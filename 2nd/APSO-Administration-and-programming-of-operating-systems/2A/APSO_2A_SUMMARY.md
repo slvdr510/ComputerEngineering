@@ -358,3 +358,5 @@ msgctl(fdcola,IPC_RMID,NULL);
 █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
 ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████  github.com/slvdr510
 ```
+
+Para renderizar este archivo .md se ha usado vscode y la extension 'Office Viewer'.
